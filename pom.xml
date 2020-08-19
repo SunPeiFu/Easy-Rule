@@ -31,6 +31,11 @@
 			<version>4.0.0</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.jeasy</groupId>
+			<artifactId>easy-rules-mvel</artifactId>
+			<version>4.1.0-SNAPSHOT</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
@@ -48,7 +53,8 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-	</dependencies>
+
+    </dependencies>
 
 	<build>
 		<plugins>
